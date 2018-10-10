@@ -101,6 +101,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
   </div>
   
   <div class="col-md-6">
+  
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>08:00</td>  <td>Workflow to Prepare DNA Sequences</td> </tr>
@@ -113,6 +114,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
   </div>
   
   <div class="col-md-6">
+  
     <h3>Day 3</h3>
     <table class="table table-striped">
       <tr> <td>08:00</td>  <td>Main Results from Microbial Ecology</td> </tr>
@@ -124,6 +126,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
   </div>
   
   <div class="col-md-6">
+  
     <h3>Day 4</h3>
     <table class="table table-striped">
       <tr> <td>08:00</td>  <td>Alpha-Diversity and Richness</td> </tr>
