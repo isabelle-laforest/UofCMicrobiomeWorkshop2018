@@ -1,4 +1,3 @@
-# UofCMicrobiomeWorkshop2018
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
