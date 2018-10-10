@@ -11,7 +11,8 @@ enddate: 2018-11-27        # machine-readable end date for the workshop in YYYY-
 instructor: ["Isabelle Lafore-Lapointe"]
 contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for host, lead instructor, or whoever else is handling questions
 
-<!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
+<!-- See instructions in the comments below for how to edit specific sections of this workshop template.
+-->
 
 <!--
   HEADER
