@@ -27,7 +27,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
 
 <p id="when">
   <strong>When:</strong>
-  Monday-Tuesday 19-20-26-27th of November 2018.</strong>
+  Monday-Tuesday 19-20-26-27th of November 2018.
 </p>
 
 <!--
