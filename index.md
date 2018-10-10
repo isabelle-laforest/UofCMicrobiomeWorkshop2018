@@ -97,6 +97,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       <tr> <td>10:20</td>  <td>How to Load Data</td> </tr>
       <tr> <td>11:00</td>  <td>Receiving your Sequencing Data</td> </tr>
       <tr> <td>11:30</td>  <td>Loading Sequencing Data in R</td> </tr>
+      <tr> <td></td>  <td></td> </tr>
     </table>
   </div>
   
