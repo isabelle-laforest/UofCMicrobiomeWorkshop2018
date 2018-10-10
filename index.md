@@ -99,6 +99,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       <tr> <td>11:30</td>  <td>Loading Sequencing Data in R</td> </tr>
     </table>
   </div>
+  
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
@@ -110,6 +111,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       <tr> <td>11:00</td>  <td>Assigning Taxonomy</td> </tr>
     </table>
   </div>
+  
   <div class="col-md-6">
     <h3>Day 3</h3>
     <table class="table table-striped">
@@ -120,6 +122,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       <tr> <td>10:20</td>  <td>Manipulating Graph with Ggplot2</td> </tr>
     </table>
   </div>
+  
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
