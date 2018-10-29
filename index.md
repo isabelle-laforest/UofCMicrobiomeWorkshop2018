@@ -94,12 +94,13 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
 <h2 id="schedule">Schedule</h2>
 
 <p id="Homework">
-  <strong>HOMEWORK BEFORE THE WORKSHOP:</strong> Participants must go through a first tutorial in RStudio to be ready for the workshop. Follow the setup section and 1. Analyzing Patient Data <a href="http://swcarpentry.github.io/r-novice-inflammation/">at this page</a>. You must also install the following R packages: dada2, vegan, phyloseq, tidyr, and car.
+  <strong>HOMEWORK BEFORE THE WORKSHOP:</strong>
+  Participants must go through a first tutorial in RStudio to be ready for the workshop. Follow the setup section and 1. Analyzing Patient Data <a href="http://swcarpentry.github.io/r-novice-inflammation/">at this page</a>. You must also install the following R packages: dada2, vegan, phyloseq, tidyr, and car.
 </p>
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Day 1 (HSC G382)</h3>
     <table class="table table-striped">
       <tr> <td>08:00</td>  <td>Introduction to R and Rstudio interface</td> </tr>
       <tr> <td>08:30</td> <td>Installing Packages and Accessing Online Resources</td> </tr>
@@ -111,7 +112,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
     </table>
   </div>
   <div class="col-md-6">  
-    <h3>Day 2</h3>
+    <h3>Day 2 (HSC G743)</h3>
     <table class="table table-striped">
       <tr> <td>08:00</td>  <td>Workflow to Prepare DNA Sequences</td> </tr>
       <tr> <td>08:30</td>  <td>Dada2 Tutorial Beguinning</td> </tr>
@@ -122,7 +123,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 3</h3>
+    <h3>Day 3 (HSC G382)</h3>
     <table class="table table-striped">
       <tr> <td>08:00</td>  <td>Main Results from Microbial Ecology</td> </tr>
       <tr> <td>08:30</td>  <td>What is Beta-Diversity</td> </tr>
@@ -132,7 +133,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
     </table>
   </div>
   <div class="col-md-6">
-    <h3>Day 4</h3>
+    <h3>Day 4 (HRIC 4AC56)</h3>
     <table class="table table-striped">
       <tr> <td>08:00</td>  <td>Alpha-Diversity and Richness</td> </tr>
       <tr> <td>09:30</td>  <td>Community composition</td> </tr>
