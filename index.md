@@ -158,7 +158,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
   need an up-to-date web browser.
 </p>
 
-<div id="r"> Start of 'R' section.
+<div id="r">
   <h3>R</h3>
   <p>
     <a href="http://www.r-project.org">R</a> is a programming language
