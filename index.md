@@ -93,6 +93,10 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
 -->
 <h2 id="schedule">Schedule</h2>
 
+<p id="Homework">
+  <strong>HOMEWORK BEFORE THE WORKSHOP:</strong> Participants must go through a first tutorial in RStudio to be ready for the workshop. Follow the setup section and 1. Analyzing Patient Data <a href="http://swcarpentry.github.io/r-novice-inflammation/">at this page</a>. You must also install the following R packages: dada2, vegan, phyloseq, tidyr, and car.
+</p>
+
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
