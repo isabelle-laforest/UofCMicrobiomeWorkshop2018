@@ -94,9 +94,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
 <h2 id="schedule">Schedule</h2>
 
 <p id="Homework">
-  <strong>***HOMEWORK BEFORE THE WORKSHOP:***</strong>
-  
-  Participants must go through a first tutorial in RStudio to be ready for the workshop. Follow the setup section and 1. Analyzing Patient Data <a href="http://swcarpentry.github.io/r-novice-inflammation/">at this page</a>. You must also install and load in your RStudio the following R packages: dada2, vegan, phyloseq, tidyr, and car.
+  <strong>***HOMEWORK BEFORE THE WORKSHOP***</strong> Participants must go through a first tutorial in RStudio to be ready for the workshop. Follow the setup section and 1. Analyzing Patient Data <a href="http://swcarpentry.github.io/r-novice-inflammation/">at this page</a>. You must also install and load in your RStudio the following R packages: dada2, vegan, phyloseq, tidyr, and car.
 </p>
 
 <div class="row">
@@ -107,7 +105,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       <tr> <td>08:30</td> <td>Installing Packages and Accessing Online Resources</td> </tr>
       <tr> <td>09:00</td>  <td>Create objects (i.e. matrix, vector) in R</td> </tr>
       <tr> <td>10:00</td>  <td>20min Break</td> </tr>
-      <tr> <td>10:20</td>  <td>How to Load Data</td> </tr>
+      <tr> <td>10:20</td>  <td>How to Load Data files in R</td> </tr>
       <tr> <td>11:00</td>  <td>Receiving your Sequencing Data</td> </tr>
       <tr> <td>11:30</td>  <td>Loading Sequencing Data in R</td> </tr>
     </table>
