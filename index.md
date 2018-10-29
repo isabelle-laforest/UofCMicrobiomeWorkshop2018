@@ -112,6 +112,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
     </table>
   </div>
   <p>
+    
 </p>
   <div class="col-md-6">  
     <h3>Day 2 (HSC G743)</h3>
