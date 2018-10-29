@@ -125,6 +125,9 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       <tr> <td>11:00</td>  <td>Assigning Taxonomy</td> </tr>
     </table>
   </div>
+    <p>
+    
+</p>
   <div class="col-md-6">
     <h3>Day 3 (HSC G382)</h3>
     <table class="table table-striped">
@@ -135,6 +138,9 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       <tr> <td>10:20</td>  <td>Manipulating Graph with Ggplot2</td> </tr>
     </table>
   </div>
+    <p>
+    
+</p>
   <div class="col-md-6">
     <h3>Day 4 (HRIC 4AC56)</h3>
     <table class="table table-striped">
