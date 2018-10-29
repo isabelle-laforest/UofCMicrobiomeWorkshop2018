@@ -66,8 +66,10 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating sytem (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on. They should have access to the UofC Wifi and need to have installed R and Rstudio, as well as a few packages (listed
-  <a href="#setup">below</a>).
+  on. They should have access to the UofC Wifi and need to have installed R and Rstudio (instructions
+  <a href="#setup">below</a>) as well as
+  <a href="https://itunes.apple.com/ca/app/textwrangler/id404010395?mt=12">TextWrangler for mac</a>
+        or <a href="https://www.barebones.com/support/textwrangler/updates.html">TextWrangler for Windows</a>.
 </p>
 
 <!--
@@ -203,4 +205,4 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
       </p>
     </div>
   </div>
-</div> End of 'R' section.
+</div>
