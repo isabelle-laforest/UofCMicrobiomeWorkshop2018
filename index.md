@@ -70,7 +70,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
   <a href="#setup">below</a>)
   For Apple computer users, please download
   <a href="https://itunes.apple.com/ca/app/textwrangler/id404010395?mt=12">TextWrangler for mac</a>.
-  For Windows or linux computer users, please make sure to have Excel or a regular text editor (i.e. Notepad)installed.
+  For Windows or linux computer users, please make sure to have Excel or a regular text editor (i.e. Notepad) installed.
 </p>
 
 <!--
