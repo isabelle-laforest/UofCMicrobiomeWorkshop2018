@@ -67,9 +67,11 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating sytem (not a tablet, Chromebook, etc.) that they have administrative privileges
   on. They should have access to the UofC Wifi and need to have installed R and Rstudio (instructions
-  <a href="#setup">below</a>) as well as
+  <a href="#setup">below</a>)
+  For Apple computer users, please download
   <a href="https://itunes.apple.com/ca/app/textwrangler/id404010395?mt=12">TextWrangler for mac</a>
         or <a href="https://www.barebones.com/support/textwrangler/updates.html">TextWrangler for Windows</a>.
+  For Windows or linux computer users, please make sure to have Excel or a regular text editor (i.e. Notepad)installed.
 </p>
 
 <!--
@@ -94,7 +96,11 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
 <h2 id="schedule">Schedule</h2>
 
 <p id="Homework">
-  <strong>***HOMEWORK BEFORE THE WORKSHOP***</strong> Participants must go through a first tutorial in RStudio to be ready for the workshop. Follow the setup section and 1. Analyzing Patient Data <a href="http://swcarpentry.github.io/r-novice-inflammation/">at this page</a>. You must also install and load in your RStudio the following R packages: dada2, vegan, phyloseq, tidyr, and car.
+  <strong>***HOMEWORK BEFORE THE WORKSHOP***</strong> Participants must go through a first tutorial in RStudio to be ready for the workshop. Follow the setup section and 1. Analyzing Patient Data <a href="http://swcarpentry.github.io/r-novice-inflammation/">at this page</a>. You must also install and load in your RStudio the following R packages: dada2, vegan, phyloseq, tidyr, car, DESeq2, phyloseq, FSA, and lme4.
+</p>
+
+<p id="Note">
+  <strong>***NOTE***</strong> This schedule is a draft and might evolve depending on how things go.
 </p>
 
 <div class="row">
