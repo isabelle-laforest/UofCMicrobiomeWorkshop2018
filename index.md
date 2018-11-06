@@ -69,8 +69,7 @@ contact: "isabelle.laforestlap@ucalgary.ca"      # contact email address for hos
   on. They should have access to the UofC Wifi and need to have installed R and Rstudio (instructions
   <a href="#setup">below</a>)
   For Apple computer users, please download
-  <a href="https://itunes.apple.com/ca/app/textwrangler/id404010395?mt=12">TextWrangler for mac</a>
-        or <a href="https://www.barebones.com/support/textwrangler/updates.html">TextWrangler for Windows</a>.
+  <a href="https://itunes.apple.com/ca/app/textwrangler/id404010395?mt=12">TextWrangler for mac</a>.
   For Windows or linux computer users, please make sure to have Excel or a regular text editor (i.e. Notepad)installed.
 </p>
 
